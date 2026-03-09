@@ -1,0 +1,342 @@
+Starting extraction...
+--- TEXT FORMAT BEGIN ---
+[SINGLE STAGE, BACK PULL-OUT, END-SUCTION CENTRIFUGAL PUMPS (PA SERIES)]
+Type : Single Stage, Back Pull-Out, End Suction Centrifugal Pump.
+
+Size : 
+Max Capacity : 1300 M3/H
+Max Head : 150M
+
+Technical Data
+
+Design: 
+
+Operating Pressure: 
+
+Hydrostatic Test Pressure: 
+
+Operating Temperature: Ambient.
+
+Operating Speed: 50Hz, 1450 & 2900 rpm
+
+Our pricing is competitive and we back up our pumps with 12 months warranty. Do you need more information about this product? If so, just quickly fill out and submit our online request form.
+
+=================================
+
+[SINGLE STAGE, BACK PULL-OUT, END-SUCTION CENTRIFUGAL PUMPS (PA SERIES)]
+Type : N/A
+
+Size : 
+Max Capacity : 720 M3/H
+Max Head : 160M
+
+Technical Data
+
+Design: 
+
+Operating Pressure: 
+
+Hydrostatic Test Pressure: 20 Bar, 24 Bar optional.
+
+Operating Temperature: Ambient.
+
+Operating Speed: 50Hz / 60Hz
+
+Our pricing is competitive and we back up our pumps with 12 months warranty. Do you need more information about this product? If so, just quickly fill out and submit our online request form.
+
+=================================
+
+[SINGLE STAGE CLOSE COUPLED CENTRIFUGAL PUMPS (PAZ SERIES)]
+Type : Single Stage, Close Coupled Centrifugal Pump
+
+Size : 
+Max Capacity : 450 M3/H
+Max Head : 150M
+
+Technical Data
+
+Design: DIN 24255
+
+Operating Pressure: 10 Bar, 16 Bar Optional
+
+Hydrostatic Test Pressure: 16 Bar, 20 Bar Optional
+
+Operating Temperature: Ambient
+
+Operating Speed: 50Hz, 1450 & 2900rpm and 60Hz, 1750 & 3500rpm
+
+Our pricing is competitive and we back up our pumps with 12 months warranty. Do you need more information about this product? If so, just quickly fill out and submit our online request form.
+
+=================================
+
+[SINGLE STAGE, BACK PULL OUT END SUCTION CENTRIFUGAL PUMPS (P-ISO SERIES)]
+Type : Single Stage, Back Pull-Out, End Suction Centrifugal Pump.
+
+Size : 
+Max Capacity : 1900 M3/H
+Max Head : 160M
+
+Technical Data
+
+Design: ISO 2858.
+
+Operating Pressure: 16 Bar.
+
+Hydrostatic Test Pressure: 24 Bar.
+
+Operating Temperature: Ambient.
+
+Operating Speed: 50Hz, 1450 & 2900 rpm
+
+Our pricing is competitive and we back up our pumps with 12 months warranty. Do you need more information about this product? If so, just quickly fill out and submit our online request form.
+
+=================================
+
+[SINGLE STAGE DOUBLE SUCTION SPLIT CASING CENTRIFUGAL PUMPS(PS SERIES)]
+Type : Single Stage, Double Section, Horizontal Split Casing Centrifugal Pump.
+
+Size : 
+Max Capacity : 7200 M3/H
+Max Head : 170M
+
+Technical Data
+
+Design: ISO 9906.
+
+Operating Pressure: 
+
+Hydrostatic Test Pressure: 20 Bar, 24 Bar optional.
+
+Operating Temperature: Ambient.
+
+Operating Speed: 50Hz, 980, 1450 & 2900 rpm
+
+Our pricing is competitive and we back up our pumps with 12 months warranty. Do you need more information about this product? If so, just quickly fill out and submit our online request form.
+
+=================================
+
+[SINGLE STAGE CLOSE COUPLED IN-LINE CENTRIFUGAL PUMPS (PIL SERIES)]
+Type : Single Stage, Close Coupled In-Line Centrifugal Pump.
+
+Size : 
+Max Capacity : 450 M3/H
+Max Head : 150M
+
+Technical Data
+
+Design: 
+
+Operating Pressure: 
+
+Hydrostatic Test Pressure: 
+
+Operating Temperature: Ambient.
+
+Operating Speed: 50Hz, 1450 & 2900 rpm
+
+Our pricing is competitive and we back up our pumps with 12 months warranty. Do you need more information about this product? If so, just quickly fill out and submit our online request form.
+
+=================================
+
+[VERTICAL MULTISTAGE STAINLESS STEEL PUMPS (PV SERIES)]
+Type : Vertical Multi Stage Stainless Steel Centrifugal Pump.
+
+Size : 
+Max Capacity : 240 M3/H
+Max Head : 300M
+
+Technical Data
+
+Design: ISO 9906.
+
+Operating Pressure: 10 Bar.
+
+Hydrostatic Test Pressure: 16 Bar.
+
+Operating Temperature: Ambient.
+
+Operating Speed: 50Hz, 1450 & 2900 rpm
+
+Our pricing is competitive and we back up our pumps with 12 months warranty. Do you need more information about this product? If so, just quickly fill out and submit our online request form.
+
+=================================
+
+[HORIZONTAL MULTISTAGE STAINLESS STEEL PUMPS (PM SERIES)]
+Type : Horizontal Multi Stage Stainless Steel Centrifugal Pump.
+
+Size : 
+Max Capacity : 26 M3/H
+Max Head : 60M
+
+Technical Data
+
+Design: ISO 9906.
+
+Operating Pressure: 10 Bar.
+
+Hydrostatic Test Pressure: 12 Bar.
+
+Operating Temperature: Ambient.
+
+Operating Speed: 50Hz, 2900 rpm
+
+Our pricing is competitive and we back up our pumps with 12 months warranty. Do you need more information about this product? If so, just quickly fill out and submit our online request form.
+
+=================================
+
+[SUBMERSIBLE SEWAGE PUMPS (CP SERIES)]
+Type : Submersible Sewage Centrifugal Pump
+
+Size : 
+Max Capacity : 400 M3/H
+Max Head : 38M
+
+Technical Data
+
+Design: N/A
+
+Operating Pressure: 
+
+Hydrostatic Test Pressure: 
+
+Operating Temperature: Ambient.
+
+Operating Speed: 50Hz, 2900 rpm
+
+Our pricing is competitive and we back up our pumps with 12 months warranty. Do you need more information about this product? If so, just quickly fill out and submit our online request form.
+
+=================================
+
+
+--- TEXT FORMAT END ---
+
+--- JSON DATA ARRAY BEGIN ---
+[
+  {
+    "series_name": "SINGLE STAGE, BACK PULL-OUT, END-SUCTION CENTRIFUGAL PUMPS (PA SERIES)",
+    "type": "Single Stage, Back Pull-Out, End Suction Centrifugal Pump.",
+    "size": "",
+    "max_capacity": "1300 M3/H",
+    "max_head": "150M",
+    "technical_data": {
+      "design": "",
+      "operating_pressure": "",
+      "hydrostatic_test_pressure": "",
+      "operating_temperature": "Ambient.",
+      "operating_speed": "50Hz, 1450 & 2900 rpm"
+    }
+  },
+  {
+    "series_name": "SINGLE STAGE, BACK PULL-OUT, END-SUCTION CENTRIFUGAL PUMPS (PA SERIES)",
+    "type": "N/A",
+    "size": "",
+    "max_capacity": "720 M3/H",
+    "max_head": "160M",
+    "technical_data": {
+      "design": "",
+      "operating_pressure": "",
+      "hydrostatic_test_pressure": "20 Bar, 24 Bar optional.",
+      "operating_temperature": "Ambient.",
+      "operating_speed": "50Hz / 60Hz"
+    }
+  },
+  {
+    "series_name": "SINGLE STAGE CLOSE COUPLED CENTRIFUGAL PUMPS (PAZ SERIES)",
+    "type": "Single Stage, Close Coupled Centrifugal Pump",
+    "size": "",
+    "max_capacity": "450 M3/H",
+    "max_head": "150M",
+    "technical_data": {
+      "design": "DIN 24255",
+      "operating_pressure": "10 Bar, 16 Bar Optional",
+      "hydrostatic_test_pressure": "16 Bar, 20 Bar Optional",
+      "operating_temperature": "Ambient",
+      "operating_speed": "50Hz, 1450 & 2900rpm and 60Hz, 1750 & 3500rpm"
+    }
+  },
+  {
+    "series_name": "SINGLE STAGE, BACK PULL OUT END SUCTION CENTRIFUGAL PUMPS (P-ISO SERIES)",
+    "type": "Single Stage, Back Pull-Out, End Suction Centrifugal Pump.",
+    "size": "",
+    "max_capacity": "1900 M3/H",
+    "max_head": "160M",
+    "technical_data": {
+      "design": "ISO 2858.",
+      "operating_pressure": "16 Bar.",
+      "hydrostatic_test_pressure": "24 Bar.",
+      "operating_temperature": "Ambient.",
+      "operating_speed": "50Hz, 1450 & 2900 rpm"
+    }
+  },
+  {
+    "series_name": "SINGLE STAGE DOUBLE SUCTION SPLIT CASING CENTRIFUGAL PUMPS(PS SERIES)",
+    "type": "Single Stage, Double Section, Horizontal Split Casing Centrifugal Pump.",
+    "size": "",
+    "max_capacity": "7200 M3/H",
+    "max_head": "170M",
+    "technical_data": {
+      "design": "ISO 9906.",
+      "operating_pressure": "",
+      "hydrostatic_test_pressure": "20 Bar, 24 Bar optional.",
+      "operating_temperature": "Ambient.",
+      "operating_speed": "50Hz, 980, 1450 & 2900 rpm"
+    }
+  },
+  {
+    "series_name": "SINGLE STAGE CLOSE COUPLED IN-LINE CENTRIFUGAL PUMPS (PIL SERIES)",
+    "type": "Single Stage, Close Coupled In-Line Centrifugal Pump.",
+    "size": "",
+    "max_capacity": "450 M3/H",
+    "max_head": "150M",
+    "technical_data": {
+      "design": "",
+      "operating_pressure": "",
+      "hydrostatic_test_pressure": "",
+      "operating_temperature": "Ambient.",
+      "operating_speed": "50Hz, 1450 & 2900 rpm"
+    }
+  },
+  {
+    "series_name": "VERTICAL MULTISTAGE STAINLESS STEEL PUMPS (PV SERIES)",
+    "type": "Vertical Multi Stage Stainless Steel Centrifugal Pump.",
+    "size": "",
+    "max_capacity": "240 M3/H",
+    "max_head": "300M",
+    "technical_data": {
+      "design": "ISO 9906.",
+      "operating_pressure": "10 Bar.",
+      "hydrostatic_test_pressure": "16 Bar.",
+      "operating_temperature": "Ambient.",
+      "operating_speed": "50Hz, 1450 & 2900 rpm"
+    }
+  },
+  {
+    "series_name": "HORIZONTAL MULTISTAGE STAINLESS STEEL PUMPS (PM SERIES)",
+    "type": "Horizontal Multi Stage Stainless Steel Centrifugal Pump.",
+    "size": "",
+    "max_capacity": "26 M3/H",
+    "max_head": "60M",
+    "technical_data": {
+      "design": "ISO 9906.",
+      "operating_pressure": "10 Bar.",
+      "hydrostatic_test_pressure": "12 Bar.",
+      "operating_temperature": "Ambient.",
+      "operating_speed": "50Hz, 2900 rpm"
+    }
+  },
+  {
+    "series_name": "SUBMERSIBLE SEWAGE PUMPS (CP SERIES)",
+    "type": "Submersible Sewage Centrifugal Pump",
+    "size": "",
+    "max_capacity": "400 M3/H",
+    "max_head": "38M",
+    "technical_data": {
+      "design": "N/A",
+      "operating_pressure": "",
+      "hydrostatic_test_pressure": "",
+      "operating_temperature": "Ambient.",
+      "operating_speed": "50Hz, 2900 rpm"
+    }
+  }
+]
+--- JSON DATA ARRAY END ---

@@ -1,0 +1,150 @@
+[dotenv@17.3.1] injecting env (5) from .env.local -- tip: ⚙️  write to custom object with { processEnv: myObject }
+[
+  {
+    "id": "a853b782-913a-42ab-8d9a-cfe488393cd4",
+    "name": "PIL Series",
+    "specs_json": {
+      "description": "Type : Single Stage, Close Coupled In-Line Centrifugal Pump.\n\n\nSize : 36\nMax Capacity : 450 M3/H\nMax Head : 150M\n\n\nTechnical Data\n\nDesign: DIN 24255.\nOperating Pressure: 10 Bar, 16 Bar optional.\nHydrostatic Test Pressure: 16 Bar, 20 Bar optional.\nOperating Temperature: Ambient.\nOperating Speed:  50Hz, 1450 & 2900 rpm and 60 Hz, 1750 & 3500 rpm .\n\nOur pricing is competitive and we back up our pumps with 12 months warranty. Do you need more information about this product? If so, just quickly fill out and submit our online request form.\n\n"
+    }
+  },
+  {
+    "id": "e9730a26-88b9-4146-9b74-3af04ac7f0b4",
+    "name": "P-ISO Series",
+    "specs_json": {
+      "description": "Type : Single Stage, Back Pull-Out, End Suction Centrifugal Pump.\n\n\nSize : 47\nMax Capacity : 1900 M3/H\nMax Head : 160M\n\n\nTechnical Data\n\nDesign: ISO 2858.\nOperating Pressure: 16 Bar.\nHydrostatic Test Pressure: 24 Bar.\nOperating Temperature: Ambient.\nOperating Speed:  50Hz, 1450 & 2900 rpm and 60 Hz, 1750 & 3500rpm.\n\nOur pricing is competitive and we back up our pumps with 12 months warranty. Do you need more information about this product? If so, just quickly fill out and submit our online request form."
+    }
+  },
+  {
+    "id": "6e17aff0-d03a-4ce9-bf83-ddb60293ca1b",
+    "name": "PAZ Series",
+    "specs_json": {
+      "description": "Type: Single Stage, Close Coupled Centrifugal Pump\n\n \n\nSize : 37\nMax Capacity : 450 M3/H\nMax Head : 150M\n\n\nTECHNICAL DATA:\n\nDesign: DIN 24255\nOperating Pressure: 10 Bar, 16 Bar Optional\nHydrostatic Test Pressure: 16 Bar, 20 Bar Optional\nOperating Temperature: Ambient\nOperating Speed: 50Hz, 1450 & 2900rpm and 60Hz, 1750 & 3500rpm\n \n\nOur pricing is competitive and we back up our pumps with 12 months warranty. Do you need more information about this product? If so, just quickly fill out and submit our online request form."
+    }
+  },
+  {
+    "id": "7a6b15f6-fbdb-486c-bf9c-6849e765b3bc",
+    "name": "PS Series",
+    "specs_json": {
+      "brand": "Paragon",
+      "description": "Type : Single Stage, Double Section, Horizontal Split Casing Centrifugal Pump.\n\n\nSize : 45\nMax Capacity : 7200 M3/H\nMax Head : 170M\n\n\nTechnical Data\n\nDesign: ISO 9906.\nOperating Pressure: 10 Bar, 20 Bar optional.\nHydrostatic Test Pressure: 20 Bar, 24 Bar optional.\nOperating Temperature: Ambient.\nOperating Speed:  50Hz, 980, 1450 & 2900 rpm and 60 Hz, 1150, 1750 & 3500 rpm .\n\nOur pricing is competitive and we back up our pumps with 12 months warranty. Do you need more information about this product? If so, just quickly fill out and submit our online request form.",
+      "certifications": [
+        "ISO 9001",
+        "UL Listed"
+      ]
+    }
+  },
+  {
+    "id": "bc6da83a-f5a7-4896-b99c-04a867873ee2",
+    "name": "PV Series",
+    "specs_json": {
+      "brand": "Paragon",
+      "description": "Type : Vertical Multi Stage Stainless Steel Centrifugal Pump.\n\n\nSize : 18\nMax Capacity : 240 M3/H\nMax Head : 300M\n\n\nTechnical Data\n\nDesign: ISO 9906.\nOperating Pressure: 10 Bar.\nHydrostatic Test Pressure: 16 Bar.\nOperating Temperature: Ambient.\nOperating Speed:  50Hz, 1450 & 2900 rpm and 60 Hz, 1750 & 3500rpm.\nOur pricing is competitive and we back up our pumps with 12 months warranty. Do you need more information about this product? If so, just quickly fill out and submit our online request form.",
+      "certifications": [
+        "ISO 9001",
+        "SGBC"
+      ]
+    }
+  },
+  {
+    "id": "5f14cd83-15be-4427-99f0-55083cf84468",
+    "name": "PM Series",
+    "specs_json": {
+      "brand": "Paragon",
+      "description": "Type : Horizontal Multi Stage Stainless Steel Centrifugal Pump.\n\n\nSize : 6\nMax Capacity : 26 M3/H\nMax Head : 60M\n\n\nTechnical Data\n\nDesign: ISO 9906.\nOperating Pressure: 10 Bar.\nHydrostatic Test Pressure: 12 Bar.\nOperating Temperature: Ambient.\nOperating Speed:  50Hz, 2900 rpm and 60 Hz, 3500rpm.\n\nOur pricing is competitive and we back up our pumps with 12 months warranty. Do you need more information about this product? If so, just quickly fill out and submit our online request form.",
+      "certifications": [
+        "ISO 9001"
+      ]
+    }
+  },
+  {
+    "id": "4da91467-49a5-40d7-9253-c7f99894adbc",
+    "name": "CP Series",
+    "specs_json": {
+      "brand": "Paragon",
+      "description": "Type: Submersible Sewage Centrifugal Pump\n\n \n\nSize : 42\nMax Capacity : 400 M3/H\nMax Head : 38M\n\n\nTechnical Data\n\nOperating Pressure: 10 Bar.\nHydrostatic Test Pressure: 12 Bar.\nOperating Temperature: Ambient.\nOperating Speed:  50Hz, 2900 rpm.\nOur pricing is competitive and we back up our pumps with 12 months warranty. Do you need more information about this product? If so, just quickly fill out and submit our online request form.",
+      "certifications": [
+        "ISO 9001",
+        "Setsco"
+      ]
+    }
+  },
+  {
+    "id": "c542c94f-a448-4a2d-8baf-92ccaa15927b",
+    "name": "SP Series",
+    "specs_json": {
+      "description": "Type: Submersible Non-Clog Sewage Centrifugal Pump\n\n \n\nSize : 49\nMax Capacity : 210 M3/H\nMax Head : 40M\n\n\nTechnical Data\n\nOperating Pressure: 10 Bar.\nHydrostatic Test Pressure: 12 Bar.\nOperating Temperature: Ambient.\nOperating Speed:  50Hz, 1450 & 2900 rpm.\n\nOur pricing is competitive and we back up our pumps with 12 months warranty. Do you need more information about this product? If so, just quickly fill out and submit our online request form."
+    }
+  },
+  {
+    "id": "960b8a5f-05a3-4f28-bf86-5dfd9199fd32",
+    "name": "4PBS Series",
+    "specs_json": {
+      "description": "Submersible Pump for 4-inch Wells. Features floating impellers and flat wear rings for superior sand handling."
+    }
+  },
+  {
+    "id": "50e1717b-2155-4224-aedf-f4976efb1d3e",
+    "name": "VT Series",
+    "specs_json": {
+      "description": "Vertical Turbine Pumps. Heavy-duty pumps available in multiple configurations (VTC, VTM, VTA, VTG) for high-pressure and high-flow applications like fire protection and marine use."
+    }
+  },
+  {
+    "id": "d5eb7cad-199e-42a0-93f0-acca8da83a8b",
+    "name": "PA Series",
+    "specs_json": {
+      "Description": "Type : Single Stage, Back Pull-Out, End Suction Centrifugal Pump.\n\n\nSize : 52\nMax Capacity : 1300 M3/H\nMax Head : 150M\n\n\nTechnical Data\n\nDesign: DIN 24255.\nOperating Pressure: 10 Bar, 16 Bar optional.\nHydrostatic Test Pressure: 16 Bar, 20 Bar optional.\nOperating Temperature: Ambient.\nOperating Speed:  50Hz, 1450 & 2900 rpm and 60 Hz, 1750 & 3500 rpm .\nOur pricing is competitive and we back up our pumps with 12 months warranty. Do you need more information about this product? If so, just quickly fill out and submit our online request form."
+    }
+  },
+  {
+    "id": "c8045222-3f67-4128-9a4e-b41e6c45f5c2",
+    "name": "PEM Series",
+    "specs_json": {
+      "description": "Electric Motors. High-efficiency, low-noise squirrel cage motors built to international IP54/IP55 standards, available for both horizontal and vertical mounting."
+    }
+  },
+  {
+    "id": "9b9fd7e3-ecec-4adf-aec6-536bed44bb3f",
+    "name": "MD Series",
+    "specs_json": {
+      "description": "Multistage Centrifugal Pumps. A modular series (MDH, MDE, MDV) that allows for multi-outlet designs, often used in fire fighting to serve different pressure levels."
+    }
+  },
+  {
+    "id": "5e4bfbc7-e8f8-41be-95e9-a51d01ba51fc",
+    "name": "SPT-SPU Series",
+    "specs_json": {
+      "description": "Self-priming pumps typically used for handling trash and sewage."
+    }
+  },
+  {
+    "id": "12630846-49da-4e1c-9037-67df898593c7",
+    "name": "PBS Series",
+    "specs_json": {
+      "description": "Type: Submersible Sewage Centrifugal Pump\n\n \n\nSize : 18\nMax Capacity : 250M3/H\nMax Head : 300M\n\n\nTechnical Data\n\nOperating Pressure: 10 Bar.\nHydrostatic Test Pressure: 12 Bar.\nOperating Temperature: Ambient.\nOperating Speed:  50Hz, 2900 rpm.\n\nOur pricing is competitive and we back up our pumps with 12 months warranty. Do you need more information about this product? If so, just quickly fill out and submit our online request form."
+    }
+  },
+  {
+    "id": "ea64062e-e4bd-4a4a-83a4-5a5006c98ca8",
+    "name": "Fire Pump Systems",
+    "specs_json": {
+      "Description": "Type 1: Single Stage, Back Pull-Out, End Suction Centrifugal Pump\n\nType 2: Single Stage, Double Suction, Horizontal Split Casing Centrifugal Pump.\n\n\n\nSize : 21\nMax Capacity : 720 M3/H\nMax Head : 160M\n\n\nTechnical Data\n\nDesign: DIN 24255.\nOperating Pressure: 16 Bar, 20 Bar optional.\nHydrostatic Test Pressure: 20 Bar, 24 Bar optional.\nOperating Temperature: Ambient.\nOperating Speed: 50Hz / 60Hz , 1800 -3600rpm. Suitable for engine driven up to 3600Rpm\n           \nOur pricing is competitive and we back up our pumps with 12 months warranty. Do you need more information about this product? If so, just quickly fill out and submit our online request form."
+    }
+  },
+  {
+    "id": "d737e268-405e-4d07-a8f7-836660c3b04a",
+    "name": "WEINMAN SPLIT CASE",
+    "specs_json": {
+      "Description": "Heavy-duty high capacity performance",
+      "description": "MODEL: LVM Vertical Split Case, L Horizontal Split Case, JD Multistage Split Case\nWeinman split case pumps meet a wide variety of service needs. The L Series single-stage and LVM vertically mounted pumps provide large capacity general service pumping. Rugged and reliable, they combine mechanical simplicity with sophisticated hydraulic design. Recognized for their quality, efficiency and excellent life cycle cost,"
+    }
+  },
+  {
+    "id": "296491fb-d060-4cfc-bdb2-74528678fd2b",
+    "name": "Weinman End Suction Pumps",
+    "specs_json": {
+      "Description": "High-efficiency general purpose pumping",
+      "description": "MODEL: AC, AE, ACV, AEV, ADV, AFV, 310 & 500 G and K Series, 375 and 575 Back Pull Out Series\n\nWeinman’s versatile end-suction pumps are heavy duty, general purpose centrifugal pumps with heavy wall castings suitable for many commercial, industrial and municipal needs. Applications include condenser, chilled, and hot water systems in HVAC, process secondary pumping, and municipal drinking water. High efficiencies, robust case construction of cast iron, and impeller construction of bronze makes these pumps an ideal selection for applications that require easy-to-maintain, reliable, long lasting pumps."
+    }
+  }
+]

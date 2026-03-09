@@ -1,0 +1,25 @@
+[dotenv@17.3.1] injecting env (5) from .env.local -- tip: ⚙️  write to custom object with { processEnv: myObject }
+--- PAGE: projects ---
+EN Blocks: Hero, ProjectTimeline
+ZH Blocks: Hero, ProjectTimeline
+---------------------------
+--- PAGE: products ---
+EN Blocks: Hero, ProductCatalog
+ZH Blocks: Hero, ProductCatalog
+---------------------------
+--- PAGE: about ---
+EN Blocks: Hero, ImageSplit, ImageSplit, TextBlock, FeatureGrid, FeatureGrid, ImageSplit, CompanyCertifications, Hero
+ZH Blocks: Hero, ImageSplit, ImageSplit, TextBlock, FeatureGrid, FeatureGrid, ImageSplit, CompanyCertifications, Hero
+---------------------------
+--- PAGE: contact ---
+EN Blocks: Hero, ContactForm
+ZH Blocks: Hero, ContactForm
+---------------------------
+--- PAGE: servicing ---
+EN Blocks: Hero, FeatureGrid, ImageSplit
+ZH Blocks: Hero, FeatureGrid, ImageSplit
+---------------------------
+--- PAGE: index ---
+EN Blocks: Hero, ImageSplit, FeatureGrid, ImageSplit
+ZH Blocks: Hero, ImageSplit, FeatureGrid, ImageSplit
+---------------------------
