@@ -92,16 +92,16 @@ export function ServicingView({ isEditable = false, initialData }: ServicingView
     return (
         <main className="min-h-screen bg-white">
             {/* Hero Section */}
-            <section className="relative h-[60vh] min-h-[500px] flex items-center overflow-hidden bg-slate-900 border-b border-white/5">
+            <section className="relative min-h-[500px] md:min-h-[750px] py-32 flex items-center overflow-hidden bg-slate-900 border-b border-white/5">
                 <div className="absolute inset-x-0 inset-y-0 z-0">
                     <Image
-                        src="/images/servicing-hero.png"
-                        alt="Industrial Pump Servicing"
+                        src="/images/abex servicing hero.jpeg"
+                        alt="Abex Engineering Servicing"
                         fill
-                        className="object-cover brightness-[0.4] opacity-80"
+                        className="object-cover object-center"
                         priority
                     />
-                    <div className="absolute inset-0 bg-gradient-to-r from-slate-950 via-slate-900/60 to-transparent" />
+                    <div className="absolute inset-0 bg-black/60" />
                 </div>
 
                 <div className="max-w-7xl mx-auto px-6 lg:px-8 relative z-10 w-full pt-16">
